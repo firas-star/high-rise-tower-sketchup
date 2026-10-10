@@ -1,0 +1,160 @@
+newmtl Paving
+Kd 0.8390 0.8270 0.8000
+Ka 0.3356 0.3308 0.3200
+Ks 0.25 0.25 0.25
+Ns 12.0
+d 1.000
+illum 2
+
+newmtl Paving-Joint
+Kd 0.6900 0.6750 0.6400
+Ka 0.2760 0.2700 0.2560
+Ks 0.25 0.25 0.25
+Ns 8.0
+d 1.000
+illum 2
+
+newmtl Asphalt
+Kd 0.3650 0.3720 0.3800
+Ka 0.1460 0.1488 0.1520
+Ks 0.25 0.25 0.25
+Ns 6.0
+d 1.000
+illum 2
+
+newmtl Planter-Stone
+Kd 0.6080 0.5880 0.5450
+Ka 0.2432 0.2352 0.2180
+Ks 0.25 0.25 0.25
+Ns 10.0
+d 1.000
+illum 2
+
+newmtl Planting
+Kd 0.4200 0.5450 0.3650
+Ka 0.1680 0.2180 0.1460
+Ks 0.25 0.25 0.25
+Ns 4.0
+d 1.000
+illum 2
+
+newmtl Stone-Podium
+Kd 0.7800 0.7520 0.7050
+Ka 0.3120 0.3008 0.2820
+Ks 0.25 0.25 0.25
+Ns 14.0
+d 1.000
+illum 2
+
+newmtl Glass-Lobby
+Kd 0.6200 0.7800 0.8600
+Ka 0.2480 0.3120 0.3440
+Ks 0.25 0.25 0.25
+Ns 90.0
+d 0.420
+illum 2
+
+newmtl Metal-Fin
+Kd 0.4300 0.4450 0.4600
+Ka 0.1720 0.1780 0.1840
+Ks 0.25 0.25 0.25
+Ns 28.0
+d 1.000
+illum 2
+
+newmtl Portal
+Kd 0.6900 0.6680 0.6300
+Ka 0.2760 0.2672 0.2520
+Ks 0.25 0.25 0.25
+Ns 16.0
+d 1.000
+illum 2
+
+newmtl Metal-Canopy
+Kd 0.9050 0.9020 0.8850
+Ka 0.3620 0.3608 0.3540
+Ks 0.25 0.25 0.25
+Ns 40.0
+d 1.000
+illum 2
+
+newmtl Stone-Pier
+Kd 0.7350 0.7150 0.6800
+Ka 0.2940 0.2860 0.2720
+Ks 0.25 0.25 0.25
+Ns 14.0
+d 1.000
+illum 2
+
+newmtl Metal-Mullion
+Kd 0.8000 0.8080 0.8150
+Ka 0.3200 0.3232 0.3260
+Ks 0.25 0.25 0.25
+Ns 55.0
+d 1.000
+illum 2
+
+newmtl Metal-Spandrel
+Kd 0.6550 0.6620 0.6700
+Ka 0.2620 0.2648 0.2680
+Ks 0.25 0.25 0.25
+Ns 30.0
+d 1.000
+illum 2
+
+newmtl Glass-Vision
+Kd 0.5600 0.7200 0.8200
+Ka 0.2240 0.2880 0.3280
+Ks 0.25 0.25 0.25
+Ns 110.0
+d 0.400
+illum 2
+
+newmtl Slab
+Kd 0.7600 0.7520 0.7350
+Ka 0.3040 0.3008 0.2940
+Ks 0.25 0.25 0.25
+Ns 8.0
+d 1.000
+illum 2
+
+newmtl Terrace
+Kd 0.8000 0.7780 0.7400
+Ka 0.3200 0.3112 0.2960
+Ks 0.25 0.25 0.25
+Ns 10.0
+d 1.000
+illum 2
+
+newmtl Roof-Membrane
+Kd 0.8050 0.8120 0.8200
+Ka 0.3220 0.3248 0.3280
+Ks 0.25 0.25 0.25
+Ns 6.0
+d 1.000
+illum 2
+
+newmtl Roof-Parapet
+Kd 0.8700 0.8680 0.8520
+Ka 0.3480 0.3472 0.3408
+Ks 0.25 0.25 0.25
+Ns 12.0
+d 1.000
+illum 2
+
+newmtl Figure
+Kd 0.2300 0.2350 0.2500
+Ka 0.0920 0.0940 0.1000
+Ks 0.25 0.25 0.25
+Ns 8.0
+d 1.000
+illum 2
+
+newmtl Figure-Alt
+Kd 0.3800 0.3450 0.3100
+Ka 0.1520 0.1380 0.1240
+Ks 0.25 0.25 0.25
+Ns 8.0
+d 1.000
+illum 2
+
